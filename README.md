@@ -29,4 +29,4 @@ Minimum of 6 hours/week of fully remote work. You can join for the summer, or fo
 Sign up for our special onboarding session for researchers on May 20, 2025 at 3pm PST. 
 
 #### Missed the Onboarding on May 20, 2025?
-No worries! You can still join one of our upcoming onboardings
+No worries! You can join one of our [upcoming onboardings](https://www.meetup.com/hackforla/events/)

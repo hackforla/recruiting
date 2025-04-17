@@ -8,20 +8,25 @@
 
 ### Are you interested in growing your professional network, and making contacts who can provide you with letters of recommendation?
 
-#### Join us! 
-Visit Hack for LA to learn more about us, how we work, and past and current projects
+## FAQs
+<details><summary>Who Is Hack for LA?</summary>
 
-#### Who we are
-A group of people with backgrounds in science and tech research and development, using our skills to help run projects for non-profits and the City of Los Angeles
+A group of people with backgrounds in science and tech research and development, using our skills to help run projects for non-profits and the City of Los Angeles. Visit [Hack for LA](https://www.hackforla.org/) to learn more about how we work, and past and current projects
+</details>
 
-#### Types of research/skills to be developed include
+<details><summary>What Types of Research/Skills Can Be Developed?</summary>
 User Experience (UX) Research, Applied Behavioral Psychology, Data Processing and Analysis
+</details>
 	
-#### Who can join? 
+<details><summary>Who Can Join?</summary>
 Anyone with an interest in using the research and tech skills they have to benefit their community, or developing their skills further. Hack for LA is fully remote, so you can participate from anywhere!
-
-#### What type of commitment is required? 
+</details>
+<details><summary>What type of commitment is required?</summary>
 Minimum of 6 hours/week of fully remote work. You can join for the summer, or for even longer! We’d love to get to know you and have you on our team for as long as you’d like to participate!
+</details>
 
-#### Next Steps 
-Sign up for our special onboarding session on May 20, 2025 at 3pm PST
+## Next Steps - Join Us!
+Sign up for our special onboarding session for researchers on May 20, 2025 at 3pm PST. 
+
+#### Missed the Onboarding on May 20, 2025?
+No worries! You can still join one of our upcoming onboardings

@@ -1,3 +1,5 @@
+<p align="center"><img src="https://github.com/user-attachments/assets/3f239984-747c-46bd-81ff-238f8fbdadbb"></p>
+
 ## Research Opportunity for Undergraduate and Graduate Students!
 
 ### Are you looking for an opportunity to get research experience?
@@ -26,6 +28,8 @@ Minimum of 6 hours/week of fully remote work. You can join for the summer, or fo
 </details>
 
 ## Next Steps - Join Us!
-Sign up for our special onboarding session for researchers on May 20, 2025 at 3pm PST*. 
+Sign up for our special onboarding session for researchers on May 20, 2025, at 3pm PST*. 
 
-*If you missed the onboarding on May 20, 2025, no worries! You can join one of our [upcoming onboardings](https://www.meetup.com/hackforla/events/)
+*If you missed the onboarding on May 20, 2025, or if you want to get started sooner, no worries! You can join one of our [upcoming onboardings](https://www.meetup.com/hackforla/events/)
+
+<p align="right"><img src="https://github.com/user-attachments/assets/3f239984-747c-46bd-81ff-238f8fbdadbb" width=25px> Hack for LA is a project of Civic Tech Structure Inc. a 501(c)(3)</p>

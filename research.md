@@ -28,7 +28,7 @@ Minimum of 6 hours/week of fully remote work. You can join for the summer, or fo
 </details>
 
 ## Next Steps - Join Us!
-Sign up for our special onboarding session for researchers on May 20, 2025, at 3pm PST*. 
+[Sign up for our special onboarding session](https://www.meetup.com/hackforla/events/307356582/) for researchers on May 20, 2025, at 3pm PST*. 
 
 *If you missed the onboarding on May 20, 2025, or if you want to get started sooner, no worries! You can join one of our [upcoming onboardings](https://www.meetup.com/hackforla/events/)
 
